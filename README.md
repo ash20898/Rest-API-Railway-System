@@ -1,2 +1,2 @@
-# RestController-Railway-System
+# RestAPI-Railway-System
 Using RestController with DataBase MySQL refrences to manage Railway Reservation System
